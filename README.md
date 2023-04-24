@@ -1,7 +1,7 @@
 # Meu primeiro repositório com readme
 
 ## Descrição
-Nesse exemplo de readme, estou colocando em prática o que foi passado na aula, qual a função do readme, o que pode ser colocado nele e como adicionar uma imagem ou gif nele.
+Nesse exemplo, estou colocando em prática o que foi ensinado na aula de GitHub, qual a função do readme, o que pode ser colocado nele e como adicionar uma imagem ou gif nele.
 
 ## Exemplo de gif no readme.
 [<img src="./animacao-da-tela.gif" alt="Gif da tela inicial do meu primeiro repositório readme.">]<br>
